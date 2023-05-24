@@ -1,3 +1,4 @@
+[Ссылка на проект]( http://deveri.serveblog.net/redoc/)
 # Проект YaMDb
 ![Github actions](https://github.com/NakiriEri/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)  
 Проект YaMDb собирает отзывы пользователей на различные произведения такие как
